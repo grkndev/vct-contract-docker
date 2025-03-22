@@ -1,0 +1,21 @@
+FROM node:23
+
+WORKDIR /app
+
+# Copy package files
+COPY package*.json ./
+
+# Install dependencies
+RUN npm install
+
+# Copy project files
+COPY . .
+
+# Build the project
+# RUN npm run build
+
+# Expose the port the app runs on
+EXPOSE 80
+
+# Command to run the server
+CMD ["npm", "start"]
