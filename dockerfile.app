@@ -15,4 +15,4 @@ COPY . .
 RUN npx tsc
 
 # Command to run the app
-CMD ["npm", "run", "start:app"] 
+CMD ["ts-node", "app.ts"] 

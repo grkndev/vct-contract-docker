@@ -1,7 +1,7 @@
 [
   {
     "league": "Last Update:",
-    "team": "14/01/2025",
+    "team": "17/03/2025",
     "handle": "",
     "role": "",
     "firstName": "",
@@ -41,19 +41,6 @@
   {
     "league": "EMEA",
     "team": "BBL ESPORTS",
-    "handle": "Chiwa",
-    "role": "PLAYER",
-    "firstName": "Egor",
-    "lastName": "Stepaniuk",
-    "contract": "2026",
-    "status": "Resident",
-    "activeStatus": "Active",
-    "teamCode": "BBL",
-    "contactInfo": "Sinan Koyuncu <sinan@bbl.co>"
-  },
-  {
-    "league": "EMEA",
-    "team": "BBL ESPORTS",
     "handle": "profek",
     "role": "PLAYER",
     "firstName": "Dawid",
@@ -86,7 +73,7 @@
     "lastName": "Alkan",
     "contract": "2027",
     "status": "Resident",
-    "activeStatus": "Reserve",
+    "activeStatus": "Active",
     "teamCode": "BBL",
     "contactInfo": ""
   },
@@ -113,8 +100,21 @@
     "contract": "2025",
     "status": "Resident",
     "activeStatus": "Active",
-    "teamCode": "",
+    "teamCode": "BBL",
     "contactInfo": ""
+  },
+  {
+    "league": "EMEA",
+    "team": "BBL ESPORTS",
+    "handle": "Chiwa",
+    "role": "PLAYER",
+    "firstName": "Egor",
+    "lastName": "Stepaniuk",
+    "contract": "2026",
+    "status": "Resident",
+    "activeStatus": "Reserve",
+    "teamCode": "BBL",
+    "contactInfo": "Sinan Koyuncu <sinan@bbl.co>"
   },
   {
     "league": "EMEA",
@@ -301,6 +301,19 @@
   {
     "league": "EMEA",
     "team": "FUT ESPORTS",
+    "handle": "xeus",
+    "role": "PLAYER",
+    "firstName": "Yusuf Doğan",
+    "lastName": "Gözgen",
+    "contract": "2026",
+    "status": "Resident",
+    "activeStatus": "Active",
+    "teamCode": "FUT",
+    "contactInfo": ""
+  },
+  {
+    "league": "EMEA",
+    "team": "FUT ESPORTS",
     "handle": "cNed",
     "role": "PLAYER",
     "firstName": "Mehmet Yağiz",
@@ -314,13 +327,13 @@
   {
     "league": "EMEA",
     "team": "FUT ESPORTS",
-    "handle": "xeus",
+    "handle": "krostaly",
     "role": "PLAYER",
-    "firstName": "Yusuf Doğan",
-    "lastName": "Gözgen",
-    "contract": "2026",
+    "firstName": "Okan",
+    "lastName": "Alaçam",
+    "contract": "2025",
     "status": "Resident",
-    "activeStatus": "Active",
+    "activeStatus": "Reserve",
     "teamCode": "FUT",
     "contactInfo": ""
   },
@@ -362,19 +375,6 @@
     "activeStatus": "Active",
     "teamCode": "GX",
     "contactInfo": "David Alonso <david.alonso@goodgamegroup.org>"
-  },
-  {
-    "league": "EMEA",
-    "team": "GiantX",
-    "handle": "waylander",
-    "role": "PLAYER",
-    "firstName": "Jan Peter",
-    "lastName": "Rahkonen",
-    "contract": "2025",
-    "status": "Resident",
-    "activeStatus": "Reserve",
-    "teamCode": "GX",
-    "contactInfo": ""
   },
   {
     "league": "EMEA",
@@ -431,6 +431,19 @@
   {
     "league": "EMEA",
     "team": "GiantX",
+    "handle": "waylander",
+    "role": "PLAYER",
+    "firstName": "Jan Peter",
+    "lastName": "Rahkonen",
+    "contract": "2025",
+    "status": "Resident",
+    "activeStatus": "Reserve",
+    "teamCode": "GX",
+    "contactInfo": ""
+  },
+  {
+    "league": "EMEA",
+    "team": "GiantX",
     "handle": "pipsoN",
     "role": "HEAD COACH",
     "firstName": "Daniil",
@@ -457,19 +470,6 @@
   {
     "league": "EMEA",
     "team": "KARMINE CORP",
-    "handle": "Magnum",
-    "role": "PLAYER",
-    "firstName": "Martin",
-    "lastName": "Penkov",
-    "contract": "2025",
-    "status": "Resident",
-    "activeStatus": "Reserve",
-    "teamCode": "KC",
-    "contactInfo": "Clement Laparra <clement.laparra@karminecorp.fr>"
-  },
-  {
-    "league": "EMEA",
-    "team": "KARMINE CORP",
     "handle": "Marteen",
     "role": "PLAYER",
     "firstName": "Martin",
@@ -478,7 +478,7 @@
     "status": "Resident",
     "activeStatus": "Active",
     "teamCode": "KC",
-    "contactInfo": ""
+    "contactInfo": "Clement Laparra <clement.laparra@karminecorp.fr>"
   },
   {
     "league": "EMEA",
@@ -548,6 +548,19 @@
   {
     "league": "EMEA",
     "team": "KARMINE CORP",
+    "handle": "Magnum",
+    "role": "PLAYER",
+    "firstName": "Martin",
+    "lastName": "Penkov",
+    "contract": "2025",
+    "status": "Resident",
+    "activeStatus": "Reserve",
+    "teamCode": "KC",
+    "contactInfo": ""
+  },
+  {
+    "league": "EMEA",
+    "team": "KARMINE CORP",
     "handle": "Engh",
     "role": "HEAD COACH",
     "firstName": "Andrey",
@@ -581,7 +594,7 @@
     "contract": "2025",
     "status": "Resident",
     "activeStatus": "Active",
-    "teamCode": "KOI",
+    "teamCode": "MKOI",
     "contactInfo": "Till Werdermann <till@oam.gg>"
   },
   {
@@ -594,20 +607,7 @@
     "contract": "2025",
     "status": "Resident",
     "activeStatus": "Active",
-    "teamCode": "KOI",
-    "contactInfo": ""
-  },
-  {
-    "league": "EMEA",
-    "team": "MKOI",
-    "handle": "Shadow",
-    "role": "PLAYER",
-    "firstName": "Tobias",
-    "lastName": "Flodström",
-    "contract": "2025",
-    "status": "Resident",
-    "activeStatus": "Active",
-    "teamCode": "KOI",
+    "teamCode": "MKOI",
     "contactInfo": ""
   },
   {
@@ -620,7 +620,7 @@
     "contract": "2026",
     "status": "Resident",
     "activeStatus": "Active",
-    "teamCode": "KOI",
+    "teamCode": "MKOI",
     "contactInfo": ""
   },
   {
@@ -633,7 +633,7 @@
     "contract": "2026",
     "status": "Resident",
     "activeStatus": "Active",
-    "teamCode": "KOI",
+    "teamCode": "MKOI",
     "contactInfo": ""
   },
   {
@@ -646,7 +646,7 @@
     "contract": "2026",
     "status": "Non-Resident",
     "activeStatus": "Active",
-    "teamCode": "KOI",
+    "teamCode": "MKOI",
     "contactInfo": ""
   },
   {
@@ -659,7 +659,7 @@
     "contract": "2026",
     "status": "/",
     "activeStatus": "Staff",
-    "teamCode": "KOI",
+    "teamCode": "MKOI",
     "contactInfo": ""
   },
   {
@@ -938,14 +938,14 @@
   {
     "league": "EMEA",
     "team": "TEAM LIQUID",
-    "handle": "kamyk",
-    "role": "PLAYER",
-    "firstName": "Maksymilian Jan",
-    "lastName": "Rychlewski",
-    "contract": "2027",
-    "status": "Resident",
-    "activeStatus": "Active",
-    "teamCode": "TL",
+    "handle": "",
+    "role": "",
+    "firstName": "",
+    "lastName": "",
+    "contract": "",
+    "status": "",
+    "activeStatus": "",
+    "teamCode": "",
     "contactInfo": ""
   },
   {
@@ -1107,7 +1107,7 @@
   {
     "league": "EMEA",
     "team": "Gentle Mates",
-    "handle": "K4DAVRA",
+    "handle": "Kada",
     "role": "PLAYER",
     "firstName": "Thomas",
     "lastName": "Johner",
@@ -1180,20 +1180,7 @@
     "status": "Resident",
     "activeStatus": "Active",
     "teamCode": "APK",
-    "contactInfo": ""
-  },
-  {
-    "league": "EMEA",
-    "team": "Apeks",
-    "handle": "Oderus",
-    "role": "PLAYER",
-    "firstName": "Miller",
-    "lastName": "Chad",
-    "contract": "2025",
-    "status": "Non-Resident",
-    "activeStatus": "Active",
-    "teamCode": "APK",
-    "contactInfo": ""
+    "contactInfo": "*GC residency exception (RCR 2.2.6)"
   },
   {
     "league": "EMEA",
@@ -1203,7 +1190,7 @@
     "firstName": "",
     "lastName": "",
     "contract": "2025",
-    "status": "Non-Resident",
+    "status": "Non-Resident*",
     "activeStatus": "Active",
     "teamCode": "APK",
     "contactInfo": ""
@@ -1230,6 +1217,19 @@
     "lastName": "Özaslan",
     "contract": "2025",
     "status": "Resident",
+    "activeStatus": "Active",
+    "teamCode": "APK",
+    "contactInfo": ""
+  },
+  {
+    "league": "EMEA",
+    "team": "Apeks",
+    "handle": "Oderus",
+    "role": "PLAYER",
+    "firstName": "Miller",
+    "lastName": "Chad",
+    "contract": "2025",
+    "status": "Non-Resident",
     "activeStatus": "Active",
     "teamCode": "APK",
     "contactInfo": ""

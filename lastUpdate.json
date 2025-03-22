@@ -682,5 +682,101 @@
     "message": "HENRY ROBERT PETER \"Gorilla\" Mepham team was changed from KOI to MKOI",
     "team": "MKOI",
     "region": "EMEA"
+  },
+  {
+    "date": 1742641202633,
+    "message": "OKAN \"krostaly\" Alaçam has been added to FUT ESPORTS with a 2025 contract",
+    "team": "",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202644,
+    "message": "THOMAS \"Kada\" Johner has been added to Gentle Mates with a 2025 contract",
+    "team": "",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202651,
+    "message": "TOBIAS \"Shadow\" Flodström has been removed from MKOI",
+    "team": "",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202658,
+    "message": "MAKSYMILIAN JAN \"kamyk\" Rychlewski has been removed from TEAM LIQUID",
+    "team": "",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202665,
+    "message": "THOMAS \"K4DAVRA\" Johner has been removed from Gentle Mates",
+    "team": "",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202671,
+    "message": "SÜREYYA BURAK \"LewN\" Alkan activeStatus was changed from Reserve to Active",
+    "team": "BBL ESPORTS",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202679,
+    "message": "VAKARIS \"vakk\" Bebravicius teamCode was changed from  to BBL",
+    "team": "BBL ESPORTS",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202686,
+    "message": "EGOR \"Chiwa\" Stepaniuk activeStatus was changed from Active to Reserve",
+    "team": "BBL ESPORTS",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202692,
+    "message": "MARTIN \"Marteen\" Pátek contactInfo was changed from  to Clement Laparra <clement.laparra@karminecorp.fr>",
+    "team": "KARMINE CORP",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202699,
+    "message": "GRZEGORZ \"GRUBINHO\" Ryczko teamCode was changed from KOI to MKOI",
+    "team": "MKOI",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202705,
+    "message": "BOGDAN \"Sheydos\" Naumov teamCode was changed from KOI to MKOI",
+    "team": "MKOI",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202714,
+    "message": "DOMINIC \"soulcas\" Sulcas teamCode was changed from KOI to MKOI",
+    "team": "MKOI",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202721,
+    "message": "DAWID \"Filu\" Czarnecki teamCode was changed from KOI to MKOI",
+    "team": "MKOI",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202729,
+    "message": "XAVIER \"flyuh\" Carlson teamCode was changed from KOI to MKOI",
+    "team": "MKOI",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202735,
+    "message": "HENRY ROBERT PETER \"Gorilla\" Mepham teamCode was changed from KOI to MKOI",
+    "team": "MKOI",
+    "region": "EMEA"
+  },
+  {
+    "date": 1742641202742,
+    "message": "MICHAŁ \"MOLSI\" Łącki contactInfo was changed from  to *GC residency exception ",
+    "team": "Apeks",
+    "region": "EMEA"
   }
 ]

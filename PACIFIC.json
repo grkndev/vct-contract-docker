@@ -1,7 +1,7 @@
 [
   {
     "league": "Last Update:",
-    "team": "15/01/2025",
+    "team": "05/03/2025",
     "handle": "",
     "role": "",
     "firstName": "",
@@ -140,7 +140,7 @@
     "status": "Resident",
     "activeStatus": "Active",
     "teamCode": "DRX",
-    "contactInfo": "Can Yang <can.yang@visionstrikers.net>"
+    "contactInfo": "Can Yang <can.yang@drx.gg>"
   },
   {
     "league": "PACIFIC",
@@ -153,7 +153,7 @@
     "status": "Resident",
     "activeStatus": "Active",
     "teamCode": "DRX",
-    "contactInfo": "Can Yang <can.yang@visionstrikers.net>"
+    "contactInfo": "Can Yang <can.yang@drx.gg>"
   },
   {
     "league": "PACIFIC",
@@ -166,7 +166,7 @@
     "status": "Resident",
     "activeStatus": "Active",
     "teamCode": "DRX",
-    "contactInfo": "Can Yang <can.yang@visionstrikers.net>"
+    "contactInfo": "Can Yang <can.yang@drx.gg>"
   },
   {
     "league": "PACIFIC",
@@ -179,7 +179,7 @@
     "status": "Resident",
     "activeStatus": "Reserve",
     "teamCode": "DRX",
-    "contactInfo": "Can Yang <can.yang@visionstrikers.net>"
+    "contactInfo": "Can Yang <can.yang@drx.gg>"
   },
   {
     "league": "PACIFIC",
@@ -192,7 +192,7 @@
     "status": "Resident",
     "activeStatus": "Active",
     "teamCode": "DRX",
-    "contactInfo": "Can Yang <can.yang@visionstrikers.net>"
+    "contactInfo": "Can Yang <can.yang@drx.gg>"
   },
   {
     "league": "PACIFIC",
@@ -205,7 +205,7 @@
     "status": "Resident",
     "activeStatus": "Active",
     "teamCode": "DRX",
-    "contactInfo": "Can Yang <can.yang@visionstrikers.net>"
+    "contactInfo": "Can Yang <can.yang@drx.gg>"
   },
   {
     "league": "PACIFIC",
@@ -218,7 +218,7 @@
     "status": "Resident",
     "activeStatus": "Staff",
     "teamCode": "DRX",
-    "contactInfo": "Can Yang <can.yang@visionstrikers.net>"
+    "contactInfo": "Can Yang <can.yang@drx.gg>"
   },
   {
     "league": "",
@@ -509,6 +509,19 @@
   {
     "league": "PACIFIC",
     "team": "PAPER REX",
+    "handle": "PatMen",
+    "role": "PLAYER",
+    "firstName": "JHON PATRICK RAMOS",
+    "lastName": "MENDOZA",
+    "contract": "2027",
+    "status": "Resident",
+    "activeStatus": "Active",
+    "teamCode": "PRX",
+    "contactInfo": "Harley Orvall <harley@pprx.team>"
+  },
+  {
+    "league": "PACIFIC",
+    "team": "PAPER REX",
     "handle": "alecks",
     "role": "HEAD COACH",
     "firstName": "ALEXANDRE SIN-CHUAN",
@@ -631,19 +644,6 @@
     "firstName": "JAEHYEOK",
     "lastName": "LEE",
     "contract": "2026",
-    "status": "Resident",
-    "activeStatus": "Active",
-    "teamCode": "T1",
-    "contactInfo": "JUNHO SHIN <norman13@t1.gg>"
-  },
-  {
-    "league": "PACIFIC",
-    "team": "T1",
-    "handle": "xccurate",
-    "role": "PLAYER",
-    "firstName": "SUSANTO",
-    "lastName": "KEVIN",
-    "contract": "2025",
     "status": "Resident",
     "activeStatus": "Active",
     "teamCode": "T1",
@@ -782,11 +782,11 @@
   {
     "league": "PACIFIC",
     "team": "TALON ESPORTS",
-    "handle": "ban",
+    "handle": "Killua",
     "role": "PLAYER",
-    "firstName": "SEUNGMIN",
-    "lastName": "OH",
-    "contract": "2026",
+    "firstName": "TANATE",
+    "lastName": "TEERASAWAD",
+    "contract": "2027",
     "status": "Resident",
     "activeStatus": "Active",
     "teamCode": "TLN",
@@ -795,12 +795,12 @@
   {
     "league": "PACIFIC",
     "team": "TALON ESPORTS",
-    "handle": "Governor",
+    "handle": "Thyy",
     "role": "PLAYER",
-    "firstName": "PETER",
-    "lastName": "NO",
-    "contract": "2026",
-    "status": "Non-Resident",
+    "firstName": "PREAMSAK",
+    "lastName": "ANUPONG",
+    "contract": "2027",
+    "status": "Resident",
     "activeStatus": "Active",
     "teamCode": "TLN",
     "contactInfo": "Dohoon Kim <dohoon.kim@talonesports.com>"
