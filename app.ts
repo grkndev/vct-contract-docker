@@ -51,8 +51,7 @@ function compareAndLogChanges(
 
     if (!localDataMap.has(webItem.handle)) {
       changeMessages.push(
-        `${webItem.firstName.toUpperCase()} "${webItem.handle}" ${
-          webItem.lastName
+        `${webItem.firstName.toUpperCase()} "${webItem.handle}" ${webItem.lastName
         } has been added to ${webItem.team} with a ${webItem.contract} contract`
       );
     }
@@ -67,8 +66,7 @@ function compareAndLogChanges(
 
     if (!webDataMap.has(localItem.handle)) {
       changeMessages.push(
-        `${localItem.firstName.toUpperCase()} "${localItem.handle}" ${
-          localItem.lastName
+        `${localItem.firstName.toUpperCase()} "${localItem.handle}" ${localItem.lastName
         } has been removed from ${localItem.team}`
       );
     }
@@ -87,7 +85,7 @@ function compareAndLogChanges(
       const changedFields: Record<string, { old: string; new: string }> = {};
 
       // Alanları karşılaştırma ve boş olanları atlama
-      Object.keys(webItem).forEach((key) => {
+      Object.keys(webItem).forEach((key: string) => {
         const newValue = webItem[key as keyof TeamMember] as string;
         const oldValue = localItem[key as keyof TeamMember] as string;
 
@@ -100,14 +98,13 @@ function compareAndLogChanges(
       if (Object.keys(changedFields).length > 0) {
         const changes = Object.entries(changedFields)
           .map(
-            ([key, { old, new: newValue }]) =>
+            ([key, { old, new: newValue }]): string =>
               `${key} was changed from ${old} to ${newValue}`
           )
           .join(", ");
 
         changeMessages.push(
-          `${webItem.firstName.toUpperCase()} "${webItem.handle}" ${
-            webItem.lastName
+          `${webItem.firstName.toUpperCase()} "${webItem.handle}" ${webItem.lastName
           } (${webItem.team}) ${changes}`
         );
       }
@@ -159,7 +156,7 @@ async function scrapeUrlToJson(url: string, id: string[]) {
         );
       }
 
-      rows.forEach((row, index) => {
+      rows.forEach((row: Element, index: number) => {
         const cells = row.querySelectorAll("td");
 
         if (cells.length >= 11) {
@@ -209,7 +206,7 @@ function sendTweet(changeMessages: string, regionIndex?: string) {
     const oldFile = fs.readFileSync("lastUpdate.json", "utf-8");
     const oldData = JSON.parse(oldFile);
     const teamName = changeMessages.split("(")[1]?.split(")")?.at(0) || null;
-    
+
     // oldData'nın bir array olduğundan emin olun, değilse yeni bir array oluşturun
     const updatesList = Array.isArray(oldData) ? oldData : [];
 
@@ -219,7 +216,7 @@ function sendTweet(changeMessages: string, regionIndex?: string) {
       team: teamName || "",
       region: `${regionIndex ? Id[regionIndex] : "ALL"}`,
     });
-    
+
     fs.writeFileSync("lastUpdate.json", JSON.stringify(updatesList, null, 2));
     // ... rest of the function remains the same
   } catch (error: any) {

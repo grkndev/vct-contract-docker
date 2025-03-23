@@ -6,13 +6,14 @@ WORKDIR /app
 COPY package*.json ./
 
 # Install dependencies
+RUN npm install -g ts-node typescript
 RUN npm install
 
 # Copy project files
 COPY . .
 
 # Build the project - use npx to run TypeScript
-RUN npx tsc
+# RUN npx tsc
 
 # Command to run the app
-CMD ["ts-node", "app.ts"] 
+CMD ["npx", "ts-node", "app.ts"] 
